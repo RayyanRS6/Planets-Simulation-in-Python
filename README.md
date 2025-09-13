@@ -1,5 +1,3 @@
-<div align="left" style="position: relative;">
-<img src="https://img.icons8.com/?size=512&id=55494&format=png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>Planets Simulation in Python</h1>
 <p align="left">
 	<em>A simple solar system simulation using Pygame, demonstrating gravitational forces and planetary orbits.</em>
@@ -12,8 +10,6 @@
 	<img src="https://img.shields.io/badge/Python-3.6+-blue.svg" alt="Python Version">
 	<img src="https://img.shields.io/badge/Pygame-2.0+-green.svg" alt="Pygame Version">
 </p>
-</div>
-<br clear="right">
 
 ## 🔗 Table of Contents
 
